@@ -1,0 +1,16 @@
+#ip_form {
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#ip_form #ip_shortcode {
+	height: 100px;
+	width: 100%;
+}
+
+#ip_preview {
+	width: 900px;
+	display: inline-block;
+	overflow: hidden;
+}
